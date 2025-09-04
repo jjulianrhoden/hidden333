@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "hidden333",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ef93ff2a-6b68-42f7-af72-0f1d47d67328",
+      "database_name": "d1-template-databasee"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
